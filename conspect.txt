@@ -3,3 +3,5 @@ git init
 git add <file> - добавление файла
 git add <file> <file> <file> - добавление файлов
 git add . - добавление всех файлов
+
+git commit -m "" - добавление коммита с сообщением
