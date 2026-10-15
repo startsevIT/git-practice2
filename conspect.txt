@@ -13,3 +13,4 @@ docs: - приставка для обозначения изменений в �
 refactor: - приставка для обозначения изменения внутренней структуры программного кода без изменения его поведения
 
 git remote add origin https://github.com/startsevIT/git-practice2
+git remote remove origin
