@@ -14,3 +14,6 @@ refactor: - приставка для обозначения изменения 
 
 git remote add origin https://github.com/startsevIT/git-practice2
 git remote remove origin
+
+git push - отправить коммиты
+git pull - получить
